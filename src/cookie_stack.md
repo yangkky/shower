@@ -9,6 +9,6 @@ class CookieStack(object):
         return self.cookie_list.pop()
 
     def bake(self, cookie):
-        """Bake a cookie and add it to the stack"""
+        """Bake a cookie and add it to the stack."""
         return self.cookie_list.append(cookie)
 ```
