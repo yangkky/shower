@@ -35,7 +35,7 @@ Write the name of each animal's baby
 |Elephant|calf||Parrot|chick
 |Fish|larvae, fry||Raccoon|cub
 |Bat|pup||Pigeon|squab, squeaker, chick
-|Porcupine|porcupette||Seal|cub
+|Porcupine|porcupette||Seal|pup
 |Goose|gosling||Sheep|lamb
 |Mole|pup||Swan|cygnet, flapper
 |Kangaroo|joey||Turkey|poult
